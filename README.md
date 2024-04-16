@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is N Mohammed Thoufiq Izhar
+Hi ![Hello I'm Thoufiq Izhar](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is N Mohammed Thoufiq Izhar
 ================================================================================================================================================
 
 Frontend Developer
@@ -6,7 +6,7 @@ Frontend Developer
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [thoufiqizhar022@gmail.com](mailto:thoufiqizhar022@gmail.com)
-* 🧠  I'm learning JavaScript, React JS
+* 🧠  I'm learning React JS, Framer Motion
 * 🤝  I'm open to collaborating on Other Frontend Projects comprising your Idea
 * ⚡  I'm your friendly neighborhood Ninja.
 
