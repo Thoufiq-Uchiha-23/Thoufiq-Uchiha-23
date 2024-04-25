@@ -1,3 +1,5 @@
+<p align="center"><img src="https://preview.redd.it/9c7lhx7ijif11.gif?width=500&auto=webp&s=0b0ca22a5e642e5efe9cb96ffabd211ae5f7179c" alt="Header-GIF"></p>
+
 Hi ![Hello I'm Thoufiq Izhar](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is N Mohammed Thoufiq Izhar
 ================================================================================================================================================
 
@@ -60,3 +62,6 @@ Hi ![Hello I'm Thoufiq Izhar](https://user-images.githubusercontent.com/18350557
 <a href="http://www.github.com/Thoufiq-Uchiha-23"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Thoufiq-Uchiha-23&bg_color=0f172a&color=3382ed&line=ef4444&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Thoufiq-Uchiha-23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoufiq-Uchiha-23&langs_count=10&title_color=facc15&text_color=3382ed&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+## Thank you for visiting 😄✨
+<p align="center"><img src="https://gifdb.com/images/thumbnail/kakashi-hatake-anime-bye-bye-vv4xg0yxihvsb76h.gif" alt="Kakashi Smile" width="500"></p>
