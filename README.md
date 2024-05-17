@@ -59,6 +59,8 @@ Hi ![Hello I'm Thoufiq Izhar](https://user-images.githubusercontent.com/18350557
 
 <a href="http://www.github.com/Thoufiq-Uchiha-23"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Thoufiq-Uchiha-23&stroke=3382ed&background=0f172a&ring=facc15&fire=facc15&currStreakNum=3382ed&currStreakLabel=facc15&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
+<a href="https://app.daily.dev/nmohammedthoufiqizhar"><img src="https://api.daily.dev/devcards/v2/TM7C6coyZFZVseZ59Snqv.png?r=thi&type=wide" width="652" alt="N Mohammed Thoufiq Izhar's Dev Card"/></a>
+
 <a href="http://www.github.com/Thoufiq-Uchiha-23"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Thoufiq-Uchiha-23&bg_color=0f172a&color=3382ed&line=ef4444&point=3382ed&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/Thoufiq-Uchiha-23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thoufiq-Uchiha-23&langs_count=10&title_color=facc15&text_color=3382ed&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
