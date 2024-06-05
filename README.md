@@ -14,6 +14,8 @@ Hi ![Hello I'm Thoufiq Izhar](https://user-images.githubusercontent.com/18350557
 * 🤝  I'm open to collaborating on Other Frontend Projects comprising your Idea
 * ⚡  I'm your friendly neighborhood Ninja.
 
+You can check my latest projects on my portfolio [Thoufiq Portfolio](https://thoufiq-coder.vercel.app/)
+
 ## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
