@@ -10,7 +10,7 @@ Hi ![Hello I'm Thoufiq Izhar](https://user-images.githubusercontent.com/18350557
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [thoufiqizhar022@gmail.com](mailto:thoufiqizhar022@gmail.com)
-* 🧠  I'm learning Next JS, Framer Motion, Firebase
+* 🧠  I'm learning Next JS, Framer Motion, Firebase, Backend.
 * 🤝  I'm open to collaborating on Other Frontend Projects comprising your Idea
 * ⚡  I'm your friendly neighborhood Ninja.
 
