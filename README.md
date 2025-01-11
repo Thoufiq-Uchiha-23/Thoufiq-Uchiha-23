@@ -5,13 +5,13 @@ Hi ![Hello I'm Thoufiq Izhar](https://user-images.githubusercontent.com/18350557
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thoufiq-uchiha&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="thoufiq-uchiha" /> </p>
 
-## 🧑‍💻 Frontend Developer
+## 🧑‍💻 MERN Developer
 ------------------
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [thoufiqizhar022@gmail.com](mailto:thoufiqizhar022@gmail.com)
-* 🧠  I'm learning Next JS, Framer Motion, Firebase, Backend.
-* 🤝  I'm open to collaborating on Other Frontend Projects comprising your Idea
+* 🧠  I'm learning everything.
+* 🤝  I'm open to collaborating on interesting projects Frontend/MERN.
 * ⚡  I'm your friendly neighborhood Ninja.
 
 You can check my latest projects on my portfolio [Thoufiq Portfolio](https://thoufiq-coder.vercel.app/)
